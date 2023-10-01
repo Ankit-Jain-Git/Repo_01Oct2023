@@ -11,7 +11,7 @@
 		<input type="text" name="num1" id="num1"/>
 		<input type="text" name="num2" id="num2"/>
 		<input type="submit" value="Calculate Value">
-		This is updated Test - Only for Git Repo
+		This is updated Test - Only for Git Repo - For GithHub Update
 	</form>
 </body>
 </html>
